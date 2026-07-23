@@ -7,3 +7,21 @@
   </url>
   <!-- Add every other page here (about, projects, contact, blog posts, etc.) -->
 </urlset>
+<url>
+  <loc>https://ritikrootz.com/projects</loc>
+  <image:image>
+    <image:loc>https://ritikrootz.com/assets/moodboard1.png</image:loc>
+  </image:image>
+</url>
+<url>
+  <loc>https://ritikrootz.com/projects</loc>
+  <image:image>
+    <image:loc>https://ritikrootz.com/assets/moodboard2.png</image:loc>
+  </image:image>
+</url>
+<url>
+  <loc>https://ritikrootz.com/projects</loc>
+  <image:image>
+    <image:loc>https://ritikrootz.com/assets/moodboard3.png</image:loc>
+  </image:image>
+</url>
